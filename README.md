@@ -2,10 +2,10 @@
 # Hola, soy jonathan villamizar  👋  
                 
 ## 🚀 About Me  
-I'm a student at Texas A&M (Whoop!)...  
+Soy ingeniero de sistema titulado 
     
 ## 🔗 Links   
-[![linkedin](https://www.linkedin.com/in/jonathan-sebastian-villamizar-rodriguez-b418a1178/)  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-sebastian-villamizar-rodriguez-b418a1178/)
     
 ## 🛠 Skills  
 .NET Framework, c#, SQLServer, Oracle 11g, Angular, JsvaScript ...  
